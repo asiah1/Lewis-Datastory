@@ -2,8 +2,8 @@
    General styles
    = */
 html {
-  background: radial-gradient(circle at top left, #E0BAD7,#61D095, #48BF84,#439775,
-#2A4747);
+  background: radial-gradient(circle at top left, #A5E6BA,#9AC6C5, #7785AC,#5B2A86,
+#360568);
 }
 p {
   margin: 15px;
@@ -21,12 +21,17 @@ iframe {
    Typography scheme
    = */
 body {
-  font-size: 40px;
-  font-family: "Comic Sans MS, cursive, sans-serif";
-  color: pink;
+  font-size: 35px;
+  font-family: "Comic Sans MS";
+  color: Black;
 }
-h1,h2,h3,h4 {
-  font-family: "Norwester";
+h1,h2,h3,h4, footer{
+  font-family: "impact";
+  color: white;
+}
+
+footer {
+  font family: "impact";
   color: white;
 }
 
@@ -87,7 +92,7 @@ section#social div,
 section#resources div {
   min-height: 350px;
   padding-bottom: 50px;
-  padding-top: 50px;
+  padding-top: 200px;
 }
 section#personal div.content-wrapper {
   margin-left: 15px;
@@ -100,13 +105,13 @@ div.media-wrapper {
 }
 section#personal div.content-wrapper img {
   float: left;
-  margin-right: 50px;
-  width: 500px;
+  margin-right: 70px;
+  width: 700px;
 }
 
 /* =
    Footer styles
    = */
 footer {
-  min-height: 350px;
+  min-height: 150px;
 }
