@@ -2,8 +2,8 @@
    General styles
    = */
 html {
-  background: radial-gradient(circle at top left, #A5E6BA,#9AC6C5, #7785AC,#5B2A86,
-#360568);
+  background: radial-gradient(circle at top left,#E8D7FF,#FFD3E8, #FFD7D5,#F3FFE1,
+#DFFFD6);
 }
 p {
   margin: 15px;
@@ -27,12 +27,12 @@ body {
 }
 h1,h2,h3,h4, footer{
   font-family: "impact";
-  color: white;
+  color: Purple;
 }
 
 footer {
   font family: "impact";
-  color: white;
+  color: Purple;
 }
 
 
